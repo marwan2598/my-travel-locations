@@ -42,6 +42,7 @@ body {
 
 
 h2 {
+    color:aqua;
     margin: 0;
     transform: rotate(-45deg);
     transition: transform 1s;
